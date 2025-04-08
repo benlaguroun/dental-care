@@ -110,7 +110,7 @@ const PublicHome: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-white p-6 rounded-lg shadow-sm">
               <img
-                src="https://source.unsplash.com/featured/600x400/?dental-cleaning"
+                src="https://plus.unsplash.com/premium_photo-1661277793925-9a74734a8fd9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="General Dentistry"
                 className="w-full h-48 object-cover rounded-md mb-4"
               />
@@ -131,7 +131,7 @@ const PublicHome: React.FC = () => {
 
             <div className="bg-white p-6 rounded-lg shadow-sm">
               <img
-                src="https://source.unsplash.com/featured/600x400/?smile"
+                src="https://images.unsplash.com/photo-1684607632845-723f8f427110?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Q29zbWV0aWMlMjBEZW50aXN0cnl8ZW58MHx8MHx8fDA%3D"
                 alt="Cosmetic Dentistry"
                 className="w-full h-48 object-cover rounded-md mb-4"
               />
@@ -152,7 +152,7 @@ const PublicHome: React.FC = () => {
 
             <div className="bg-white p-6 rounded-lg shadow-sm">
               <img
-                src="https://source.unsplash.com/featured/600x400/?orthodontics"
+                src="https://plus.unsplash.com/premium_photo-1681997203595-e45e06abe034?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8T3J0aG9kb250aWNzfGVufDB8fDB8fHww"
                 alt="Orthodontics"
                 className="w-full h-48 object-cover rounded-md mb-4"
               />
